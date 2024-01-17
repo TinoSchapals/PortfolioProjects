@@ -4,7 +4,6 @@ Cleaning Data in SQL Queries
 
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, SQL Server String Functions, Creating Views, Altering Tables, CASE
 
-
 */
 
 
